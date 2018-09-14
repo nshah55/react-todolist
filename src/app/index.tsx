@@ -7,7 +7,6 @@ import './app.css';
 import * as moment from 'moment'
 
 type AppState = {
-
   tasks: Task[];
 }
 
